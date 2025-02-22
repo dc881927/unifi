@@ -1,4 +1,4 @@
-module github.com/dc881927/unifi/v5 
+module github.com/dc881927/unifi
 
 go 1.23
 
